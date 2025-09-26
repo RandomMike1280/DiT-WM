@@ -30,7 +30,7 @@ This readme file was not written by a high-school student alone, I might have no
 
 ### References
 -   Ball, P. J., Bauer, J., Belletti, F., et al. (2025). *Genie 3: A New Frontier for World Models*.
-    [Link to source]([https://arxiv.org/abs/XXXX.XXXXX](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/))
+    [Link to source][(https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)]
 -   Ding, Z., Zhang, A., Tian, Y., & Zheng, Q. (2024). *Diffusion World Model: Future Modeling Beyond Step-by-Step Rollout for Offline Reinforcement Learning*. ArXiv.
     [https://arxiv.org/abs/2402.03570](https://arxiv.org/abs/2402.03570)
 -   Hafner, D., Pasukonis, J., Ba, J., & Lillicrap, T. (2023). *Mastering Diverse Domains through World Models*. ArXiv.
@@ -39,3 +39,4 @@ This readme file was not written by a high-school student alone, I might have no
     [https://arxiv.org/abs/2212.09748](https://arxiv.org/abs/2212.09748)
 -   Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2021). *High-Resolution Image Synthesis with Latent Diffusion Models*. ArXiv.
     [https://arxiv.org/abs/2112.10752](https://arxiv.org/abs/2112.10752)
+
