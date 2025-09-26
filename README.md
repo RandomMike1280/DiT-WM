@@ -26,7 +26,7 @@ Other approaches such as mixed-precision training could also be used to improve 
 While this is an interesting idea, I do not guarantee this concept to be successfully at first, there would be unexpected elements that I did not take into account and could affect the final results. But if successful, I believe this architecture would be a leap forward, improving upon the current works. I expect a successful DiT-WM would be able to "imagine" long, high-fidelity trajectories, plus with the stochastic nature of Diffusion models, the DiT-WM could imagine multiple trajectories for each action, take into account the stocasticity nature of the environment, without averaging, blending all the possibilities together, which results in a blurry imagination that could be physically impossible for the environment.
 
 ### Side notes:
-This readme file was not written by a high-school student alone, I might have not explained this in full technical details and there could be some fundamental errors in the idea. My way of writing wouldn't be suitable for a full technical research paper or formal a formal report.
+This readme file was written by a high-school student alone, I might have not explained this in full technical details and there could be some fundamental errors in the idea. My way of writing wouldn't be suitable for a full technical research paper or formal a formal report.
 
 ### References
 -   Ball, P. J., Bauer, J., Belletti, F., et al. (2025). *Genie 3: A New Frontier for World Models*.
@@ -39,5 +39,6 @@ This readme file was not written by a high-school student alone, I might have no
     [https://arxiv.org/abs/2212.09748](https://arxiv.org/abs/2212.09748)
 -   Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B. (2021). *High-Resolution Image Synthesis with Latent Diffusion Models*. ArXiv.
     [https://arxiv.org/abs/2112.10752](https://arxiv.org/abs/2112.10752)
+
 
 
